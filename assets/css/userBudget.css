@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    background-image: url(../img/undraw_Metrics_re_6g90.svg);
+    background-repeat: no-repeat;
+    position:sticky;
+    background-position: right;
+  }
+  
+  .container {
+    height: 100vh;
+  }
+  
+  .chart-wrapper {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+  }
